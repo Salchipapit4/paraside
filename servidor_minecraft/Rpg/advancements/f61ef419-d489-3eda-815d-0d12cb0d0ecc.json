@@ -1,7 +1,67 @@
 {
+  "oceansdelight:recipes/food/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-07-19 17:10:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/warped_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-19 17:07:58 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/cherry_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/jungle_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-19 17:12:17 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/oak_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
@@ -11,15 +71,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipe/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/spruce_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/birch_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:28 +0000"
+    },
+    "done": true
+  },
+  "mstv-masv:recipes/decorations/bamboo_armor_stand": {
+    "criteria": {
+      "has_stick": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-19 17:31:14 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/crimson_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
   "mstv-mtoolv:recipes/tools/spruce_wooden_shovel": {
     "criteria": {
       "has_shovel_blade_material": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
@@ -29,9 +155,45 @@
     },
     "done": false
   },
+  "mstv-mweaponv:recipes/combat/birch_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2025-07-19 17:06:07 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-19 17:10:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
@@ -41,15 +203,105 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 17:25:57 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipes/decorations/acacia_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
   "quad-lolmjnv:recipes/misc/spruce_jukebox": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
     },
     "done": true
   },
+  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_cobblestone_blocks": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipe/decorations/warped_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/birch_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/mangrove_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
   "quad-lolmbdv:recipes/decorations/spruce_light_blue_bed": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-19 17:15:17 +0000"
     },
     "done": true
   },
@@ -59,9 +311,81 @@
     },
     "done": true
   },
+  "lolmcmv-aft:recipes/decorations/mangrove_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-19 17:07:58 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/cherry_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv-aft:recipes/decorations/jungle_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:28 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipe/decorations/jungle_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/warped_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/jungle_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/spruce_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
@@ -71,9 +395,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
   "mstv-mweaponv:recipes/combat/spruce_crossbow": {
     "criteria": {
       "has_stick": "2025-07-19 17:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -83,9 +431,202 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/dark_oak_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-19 17:18:24 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-19 17:31:21 +0000",
+      "minecraft:zombie": "2025-07-19 17:11:47 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/birch_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/birch_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_table": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/acacia_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/bamboo_bow": {
+    "criteria": {
+      "has_stick": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-19 17:11:21 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/jungle_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/crimson_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/chicken_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-19 17:13:03 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-19 17:11:21 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -101,9 +642,69 @@
     },
     "done": true
   },
+  "lolmcbv:recipes/decorations/spruce_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mweaponv:recipes/combat/acacia_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv-aft:recipes/decorations/spruce_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/warped_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/spruce_brush": {
     "criteria": {
       "has_stick": "2025-07-19 17:07:58 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipe/decorations/cherry_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
@@ -119,21 +720,197 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_brush": {
+    "criteria": {
+      "has_stick": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/warped_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
+  "lolmcmv:recipes/misc/spruce_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
     },
     "done": true
   },
-  "lolmcgt:recipes/decorations/spruce_cartography_table": {
+  "moredelight:combat/stone_knife": {
     "criteria": {
-      "has_planks": "2025-07-19 17:07:56 +0000"
+      "has_stone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/bamboo_arrow": {
+    "criteria": {
+      "has_stick": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/dark_oak_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
     },
     "done": false
+  },
+  "lolmcmv-aft:recipes/decorations/birch_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "lolmcgt:recipes/decorations/spruce_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000",
+      "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 17:08:45 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-07-19 17:11:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-07-19 17:10:51 +0000",
+      "opened_chest": "2025-07-19 17:10:56 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/warped_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 17:08:45 +0000"
+    },
+    "done": true
   },
   "quad-lolmbdv:recipes/decorations/spruce_cyan_bed": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_frost_book": {
+    "criteria": {
+      "cast": "2025-07-19 17:15:48 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/cherry_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/oak_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "stackedblocksfarmersdelight:recipes/building_blocks/stacked_pumpkins": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/cherry_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/birch_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -143,9 +920,33 @@
     },
     "done": true
   },
+  "mstv-mweaponv:recipes/combat/jungle_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
   "mstv-masv:recipes/decorations/spruce_armor_stand": {
     "criteria": {
       "has_stick": "2025-07-19 17:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "rogues:recipes/misc/iron_nugget_from_smelting_iron_dagger": {
+    "criteria": {
+      "has_iron_dagger": "2025-07-19 17:11:01 +0000"
     },
     "done": true
   },
@@ -155,9 +956,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
   "stackedblocksfarmersdelight:recipes/building_blocks/stacked_spruce_logs": {
     "criteria": {
       "has_spruce_log": "2025-07-19 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv-aft:recipes/decorations/dark_oak_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mweaponv:recipes/combat/crimson_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv-aft:recipes/decorations/oak_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/warped_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -167,15 +1004,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv-aft:recipes/decorations/warped_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-19 17:07:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/birch_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-19 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-19 17:12:17 +0000"
     },
     "done": true
   },
@@ -191,9 +1082,129 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-07-19 17:10:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "quad-lolmsmv:recipes/decorations/dark_oak_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
+  "lolmcbv:recipe/decorations/spruce_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "lolmcmv-aft:recipes/decorations/cherry_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/spirit_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbdv:recipes/decorations/spruce_light_gray_bed": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipe/decorations/dark_oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/shapeless_rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_porkchop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/mangrove_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/bamboo_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -203,9 +1214,135 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-19 17:11:47 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 17:25:57 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/mangrove_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-07-19 17:07:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-07-19 17:11:21 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/crimson_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
     },
     "done": true
   },
@@ -215,9 +1352,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/acacia_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
     },
     "done": true
   },
@@ -227,9 +1394,81 @@
     },
     "done": true
   },
+  "lolmcbv:recipe/decorations/acacia_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "lolmcgt:recipes/decorations/bamboo_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbdv:recipes/decorations/spruce_yellow_bed": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/dark_oak_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-19 17:11:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -239,9 +1478,39 @@
     },
     "done": false
   },
+  "moredelight:recipes/cooking/carrot_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:28 +0000"
+    },
+    "done": true
+  },
   "quad-lolmcrv:recipes/misc/spruce_crafter": {
     "criteria": {
       "has_table": "2025-07-19 17:07:58 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/cherry_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-19 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
     },
     "done": true
   },
@@ -251,9 +1520,33 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/bamboo_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbhv:recipes/misc/spruce_beehive": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/cod_crate": {
+    "criteria": {
+      "has_cod": "2025-07-19 17:10:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -263,9 +1556,130 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipes/decorations/bamboo_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/cherry_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/spruce_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-19 17:13:03 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decoration/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000",
+      "has_the_recipe": "2025-07-19 17:13:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-19 17:10:56 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/oak_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
   "mstv-mweaponv:recipes/combat/spruce_wooden_sword": {
     "criteria": {
       "has_sword_blade_material": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipes/decorations/crimson_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-07-19 17:19:18 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -281,11 +1695,173 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-19 17:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-19 17:11:20 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/crimson_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/warped_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "lolmcbv:recipes/decorations/jungle_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/acacia_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-19 17:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_beef": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
   "mstv-mtoolv:recipes/tools/spruce_wooden_pickaxe": {
     "criteria": {
       "has_pickaxe_head_material": "2025-07-19 17:07:56 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/bamboo_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_porkchop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv-aft:recipes/decorations/crimson_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
   },
   "quad-lolmbdv:recipes/decorations/spruce_lime_bed": {
     "criteria": {
@@ -296,6 +1872,60 @@
   "stackedblocks:recipes/building_blocks/stacked_spruce_logs": {
     "criteria": {
       "has_spruce_log": "2025-07-19 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/jungle_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-19 17:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-19 17:11:20 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/jungle_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/cherry_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -311,9 +1941,111 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/mangrove_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-19 17:12:17 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "rogues:recipes/misc/iron_nugget_from_blasting_iron_dagger": {
+    "criteria": {
+      "has_iron_dagger": "2025-07-19 17:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbdv:recipes/decorations/spruce_brown_bed": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -323,9 +2055,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-19 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/warped_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/jungle_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipes/decorations/warped_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/spruce_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-19 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-19 17:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
@@ -335,21 +2157,184 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "lolmcbv:recipes/decorations/cherry_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
   "mstv-mweaponv:recipes/combat/spruce_bow": {
     "criteria": {
       "has_stick": "2025-07-19 17:07:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/salmon_crate": {
+    "criteria": {
+      "has_salmon": "2025-07-19 17:12:17 +0000"
+    },
+    "done": true
+  },
   "quad-lolmsmv:recipes/decorations/spruce_cobblestone_smoker": {
     "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000",
       "has_logs": "2025-07-19 17:07:47 +0000"
     },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/acacia_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-19 17:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-19 17:10:57 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/oak_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/acacia_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
+  "lolmcmv-aft:recipes/decorations/acacia_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/spruce_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
     },
     "done": true
   },
@@ -359,9 +2344,153 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-07-19 17:19:19 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbdv:recipes/decorations/spruce_black_bed": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipe/decorations/mangrove_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/spruce_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/bamboo_crossbow": {
+    "criteria": {
+      "has_stick": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_deepslate_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "stackedblocks:recipes/building_blocks/stacked_cobblestone_blocks": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 17:12:38 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-19 17:11:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipes/decorations/birch_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -371,9 +2500,69 @@
     },
     "done": false
   },
+  "mstv-mtoolv:recipes/tools/acacia_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-19 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "quad-lolmsmv:recipes/decorations/bamboo_cobblestone_smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 17:13:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-19 17:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_dacite_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
     },
     "done": true
   },
@@ -383,9 +2572,93 @@
     },
     "done": false
   },
+  "mstv-mtoolv:recipes/tools/oak_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 17:25:57 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipes/decorations/dark_oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/warped_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:20 +0000"
+    },
+    "done": true
+  },
   "quad-lolmbdv:recipes/decorations/spruce_blue_bed": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
     },
     "done": true
   },
@@ -401,9 +2674,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2025-07-19 17:12:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-07-19 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-19 17:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-19 17:11:20 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipe/decorations/crimson_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_deepslate_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-19 17:08:32 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/acacia_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-19 17:11:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
     },
     "done": true
   },
@@ -413,9 +2752,63 @@
     },
     "done": true
   },
+  "lolmcmv:recipes/misc/bamboo_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/birch_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/food/seagrass_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-19 17:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
   "mstv-base:recipes/misc/spruce_stick": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-19 17:11:28 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/mangrove_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
@@ -425,9 +2818,33 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/spruce_iron_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/crimson_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
     },
     "done": true
   },
@@ -437,21 +2854,344 @@
     },
     "done": true
   },
+  "mstv-mtoolv:recipes/tools/spruce_iron_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/oak_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipe/decorations/birch_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-07-19 17:06:08 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-07-19 17:19:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-19 17:11:02 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/spruce_deepslate_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-19 17:10:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/warped_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/birch_stone_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "lolmcbv:recipe/decorations/bamboo_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-19 17:19:56 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/bamboo_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-19 17:19:18 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-19 17:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_ocean": "2025-07-19 17:10:40 +0000",
+      "minecraft:frozen_river": "2025-07-19 17:10:27 +0000",
+      "minecraft:stony_shore": "2025-07-19 17:14:45 +0000",
       "minecraft:snowy_taiga": "2025-07-19 17:06:08 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-19 17:13:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/crimson_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "lolmcbv:recipes/decorations/mangrove_chiseled_bookshelf": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/spruce_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/mangrove_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-19 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_stone_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-19 17:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "suspicious_stew": "2025-07-19 17:13:02 +0000",
+      "cooked_cod": "2025-07-19 17:16:05 +0000",
+      "cooked_salmon": "2025-07-19 17:22:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-19 17:10:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/spruce_stone_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_white_dacite_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/oak_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
     },
     "done": false
   },
   "quad-lolmbdv:recipes/decorations/spruce_green_bed": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv:recipes/misc/acacia_composter": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/jungle_iron_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/mangrove_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "stackedblocks:recipes/building_blocks/stacked_pumpkins": {
+    "criteria": {
+      "has_pumpkin": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "lolmcmv-aft:recipes/decorations/bamboo_feeding_trough": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-19 17:10:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
@@ -467,9 +3207,87 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_chair": {
     "criteria": {
       "has_planks": "2025-07-19 17:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_stone_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-07-19 17:24:17 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_deepslate_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/crimson_iron_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "lolmcgt:recipes/decorations/cherry_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-19 17:11:25 +0000"
+    },
+    "done": false
+  },
+  "mstv-mtoolv:recipes/tools/birch_stone_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:08:23 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/creamy_pasta_with_ham": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/creamy_pasta_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 17:11:23 +0000"
     },
     "done": true
   },
@@ -479,9 +3297,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 17:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-19 17:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-19 17:10:45 +0000"
+    },
+    "done": true
+  },
   "moredelight:main/root": {
     "criteria": {
       "seeds": "2025-07-19 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_iron_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 17:18:52 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_deepslate_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 17:18:46 +0000"
     },
     "done": true
   },
