@@ -886,3 +886,14 @@ com.google.gson.JsonParseException: Map entry 'c' : Failed to parse either. Firs
 [17:32:50] [Server thread/INFO]: Mat_525 lost connection: Disconnected
 [17:32:50] [Server thread/INFO]: Mat_525 left the game
 [17:32:50] [Server thread/INFO]: [voicechat] Disconnecting client Mat_525
+[18:24:40] [Server thread/INFO]: Mat_525[/127.207.153.182:44723] logged in with entity id 4934 at (77.55597108306945, 17.0, 666.3113719124832)
+[18:24:40] [Server thread/INFO]: Sending server config values to client
+[18:24:40] [Server thread/INFO]: Mat_525 joined the game
+[18:24:40] [Server thread/INFO]: [voicechat] Received secret request of Mat_525 (18)
+[18:24:40] [Server thread/INFO]: [voicechat] Sent secret to Mat_525
+[18:24:40] [Server thread/INFO]: Priority overwritten for player Mat_525. Claiming: GRAVE / Robbing: INVENTORY
+[18:24:40] [Server thread/INFO]: Receiving client config
+[18:31:53] [Server thread/INFO]: Mat_525 was slain by Horde Zombie
+[18:32:21] [Server thread/INFO]: Mat_525 tried to swim in lava
+[18:32:23] [Server thread/INFO]: No grave backup generated (empty grave)
+[18:32:59] [Server thread/INFO]: Mat_525 claimed a grave belonging to Mat_525 at -64, 12, 814, minecraft:overworld
