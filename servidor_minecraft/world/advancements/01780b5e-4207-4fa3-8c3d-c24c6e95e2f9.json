@@ -1,0 +1,470 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-07-11 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-11 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-07-11 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-11 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-07-11 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-07-11 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:misc_items": {
+    "criteria": {
+      "always": "2025-07-11 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 03:47:19 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-07-11 03:47:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 03:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 03:47:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 03:47:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-11 03:57:39 +0000",
+      "minecraft:forest": "2025-07-11 04:03:06 +0000",
+      "minecraft:taiga": "2025-07-11 03:57:33 +0000",
+      "minecraft:river": "2025-07-11 03:57:38 +0000",
+      "minecraft:grove": "2025-07-11 04:04:39 +0000",
+      "minecraft:stony_shore": "2025-07-11 03:49:45 +0000",
+      "minecraft:lush_caves": "2025-07-11 03:53:17 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-11 03:47:19 +0000",
+      "minecraft:dripstone_caves": "2025-07-11 04:00:11 +0000",
+      "minecraft:frozen_peaks": "2025-07-11 04:04:42 +0000"
+    },
+    "done": false
+  },
+  "variantvanillablocks:recipes/decorations/barrel": {
+    "criteria": {
+      "has_the_recipe": "2025-07-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-07-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/composter": {
+    "criteria": {
+      "has_the_recipe": "2025-07-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 03:47:37 +0000",
+      "has_spruce_slab": "2025-07-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_spruce_slab": "2025-07-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-11 03:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/furniture_hammer": {
+    "criteria": {
+      "has_stick": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_drawer": {
+    "criteria": {
+      "has_planks": "2025-07-11 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-11 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-11 03:50:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "maple_forest": "2025-07-11 04:03:20 +0000",
+      "muddy_river": "2025-07-11 04:05:51 +0000",
+      "pine_slopes": "2025-07-11 04:03:37 +0000",
+      "prismachasm": "2025-07-11 04:01:38 +0000",
+      "boreal_forest": "2025-07-11 03:56:34 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "maple_forest": "2025-07-11 04:03:20 +0000",
+      "muddy_river": "2025-07-11 04:05:51 +0000",
+      "pine_slopes": "2025-07-11 04:03:37 +0000",
+      "boreal_forest": "2025-07-11 03:56:34 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-11 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-11 04:01:16 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2025-07-11 04:01:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-07-11 04:02:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-07-11 23:26:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-07-11 23:29:01 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

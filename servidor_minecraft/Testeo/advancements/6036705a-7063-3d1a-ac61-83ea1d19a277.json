@@ -1,0 +1,45 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-07-18 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-07-18 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-07-18 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-18 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-07-18 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:misc_items": {
+    "criteria": {
+      "always": "2025-07-18 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-07-18 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
