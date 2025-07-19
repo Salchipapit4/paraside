@@ -68,10 +68,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_ocean": "2025-07-19 17:10:40 +0000",
+      "minecraft:snowy_slopes": "2025-07-19 18:38:50 +0000",
       "minecraft:frozen_river": "2025-07-19 17:10:27 +0000",
       "minecraft:grove": "2025-07-19 18:31:24 +0000",
       "minecraft:stony_shore": "2025-07-19 17:14:45 +0000",
-      "minecraft:snowy_taiga": "2025-07-19 17:06:08 +0000"
+      "minecraft:snowy_taiga": "2025-07-19 17:06:08 +0000",
+      "minecraft:frozen_peaks": "2025-07-19 18:38:51 +0000"
     },
     "done": false
   },
@@ -3262,21 +3264,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-07-19 18:25:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-19 18:25:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
+      "has_raw_gold": "2025-07-19 18:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-19 18:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-19 18:25:57 +0000"
     },
     "done": true
   },
@@ -3286,33 +3294,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
-    },
-    "done": true
-  },
   "quad-lolmjnv:recipes/misc/acacia_noteblock": {
     "criteria": {
       "has_redstone": "2025-07-19 18:25:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-19 18:25:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
     },
     "done": true
   },
@@ -3334,63 +3324,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-19 18:25:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-07-19 18:25:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
-    },
-    "done": true
-  },
   "quad-lolmjnv:recipes/misc/oak_noteblock": {
     "criteria": {
       "has_redstone": "2025-07-19 18:25:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-19 18:30:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-19 18:25:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
     },
     "done": true
   },
@@ -3436,12 +3378,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-07-19 18:31:17 +0000"
-    },
-    "done": true
-  },
   "quad-lolmjnv:recipes/misc/birch_noteblock": {
     "criteria": {
       "has_redstone": "2025-07-19 18:25:57 +0000"
@@ -3453,6 +3389,606 @@
       "has_redstone": "2025-07-19 18:25:57 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-19 18:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-07-19 18:31:17 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-19 18:33:52 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
+    "criteria": {
+      "has_calamari": "2025-07-19 18:33:52 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
+    "criteria": {
+      "has_calamari": "2025-07-19 18:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-19 18:33:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-19 18:34:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-19 18:35:27 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/apple_crate": {
+    "criteria": {
+      "has_apple": "2025-07-19 18:35:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-07-19 18:35:27 +0000"
+    },
+    "done": false
+  },
+  "rusticdelight:recipes/cooking/syrup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-19 18:35:27 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/cherry_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/warped_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/spruce_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/crimson_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/dark_oak_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/birch_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/acacia_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/jungle_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/mangrove_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/jungle_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/acacia_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/birch_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/crimson_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_golden_axe": {
+    "criteria": {
+      "has_axe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/bamboo_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/warped_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/dark_oak_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mweaponv:recipes/combat/bamboo_golden_sword": {
+    "criteria": {
+      "has_sword_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/mangrove_golden_pickaxe": {
+    "criteria": {
+      "has_pickaxe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/cherry_golden_hoe": {
+    "criteria": {
+      "has_hoe_head_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "mstv-mtoolv:recipes/tools/spruce_golden_shovel": {
+    "criteria": {
+      "has_shovel_blade_material": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-19 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-07-19 18:37:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-19 18:51:50 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:frosted_coniferous_forest": "2025-07-19 18:40:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:frosted_coniferous_forest": "2025-07-19 18:40:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
